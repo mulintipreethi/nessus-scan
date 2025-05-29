@@ -11,24 +11,5 @@ It is widely used in both corporate and government environments for vulnerabilit
 | **Custom Reports**          | Exports results in PDF, CSV, HTML, and .nessus formats.                        |
 | **Automation & Scheduling** | Supports automated and recurring scans.                                        |
 | **Plugin Updates**          | Regular plugin updates ensure new vulnerabilities are detected quickly.        |
-Common Vulnerabilities Detected by Nessus
-Unpatched software
 
-Weak or default passwords
-
-Misconfigured services (e.g., open ports)
-
-SSL/TLS vulnerabilities
-
-Web app flaws (e.g., XSS, SQLi)
-
-Outdated libraries and dependencies
-Tips
-Schedule scans regularly to maintain security posture.
-
-Use credentialed scans for more accurate results.
-
-Keep Nessus plugins up to date.
-
-Be cautious when scanning production environments—test in staging first.
 
